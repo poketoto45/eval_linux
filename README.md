@@ -136,3 +136,13 @@ la commande et donc gsh check & flarigo & flarigo & flarigo
 
 ![mission 19 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission19.png)
 
+mission 20
+objectif trouve une combinon de lettre pour fair marche un sort de feux d'artifice
+
+biens lire la consigne pour voir que c'es soit abcd sois oups
+est c'est abcd
+commande charmiglio abcd
+
+![mission 20 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission20.png)
+
+mission 21
