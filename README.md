@@ -66,3 +66,19 @@ l'objectif et le meme que le 8 mais avec des araignee caché
 il faut juste rajouté un point devant le premier asterisque "rm .*araignee*"
 
 ![mission 9 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission9.png)
+
+mission 10
+objectif il faut copier les etandare de la grande salle du chateau
+
+utilise la commande cp (copy) qui permet de copier un fichier/dossier a l'idantique la commande est 
+cp etendard* ~/Foret/Hutte/Coffre/
+
+![mission 10 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission10.png)
+
+mission 11
+objectif faire des copi des etandare de la grande salle du chateau
+
+utilise la meme commande l'exercice precedant mais avec *tapicerie* a la place d'"etendard*"
+
+![mission 11 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission11.png)
+
