@@ -95,3 +95,18 @@ objectif trouve le jour de la conjonction
 il faut utilise la commande cal "année" poura affiché un calendrie assez peux lisible
 
 ![mission 13 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission13.png)
+
+mission 14
+objectif créé un alias pour la commande ls -a
+il faut utilise la commande alias la='ls -A'
+la (le alias) le 'ls -A' (la commande a mettre dans le alias)
+
+![mission 14 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission14.png)
+
+mission 15
+objectif fair un journal avec l'editeur nano
+
+il faut utilise la commande nano dans le coffre et ecrire un petit texte dans le fichier jounal.txt créé par la commande
+nano journal.txt
+
+![mission 15 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission15.png)
