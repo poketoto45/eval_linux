@@ -146,3 +146,25 @@ commande charmiglio abcd
 ![mission 20 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission20.png)
 
 mission 21
+
+trouvé la piece de bronze
+
+j'ai ete dans des dossier au hazard et ça a marcé
+cd ~/Jardin/Labyrinthe/874c07ee/0fbc1ad70530f224e4bd6087e7b/1f7e15a4057d
+
+![mission 21 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission21.png)
+
+mission 22
+objectif pareil avec une piece d'argen
+
+utilise ls -R pour voir tout les fichier, sous dossier et fichier dans les sous dossier
+
+![mission 22 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission22.png)
+
+mission 23
+
+trouve les piece d'or avec la commande find
+
+![mission 23 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission23.png)
+
+mission 24
