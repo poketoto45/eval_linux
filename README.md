@@ -82,3 +82,16 @@ utilise la meme commande l'exercice precedant mais avec *tapicerie* a la place d
 
 ![mission 11 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission11.png)
 
+mission 12
+objectif fais un copi du plus vieux tableau
+
+pour ce il faut utilisé la commande ls -l qui permet de vois les dossier/fichier de voire qui a les droit du se dosier/fichier et de voir ça date de création
+
+![mission 12 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission12.png)
+
+mission 13
+objectif trouve le jour de la conjonction
+
+il faut utilise la commande cal "année" poura affiché un calendrie assez peux lisible
+
+![mission 13 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission13.png)
