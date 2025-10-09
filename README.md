@@ -52,3 +52,17 @@ pour ce on peux utilisé la commande ls -a (le -a veux dire all donc l'integrali
 puis a nouveau la commande mv
 
 ![mission 7 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission7.png)
+
+mission 8
+objectif supprimé tout les araignee en une commande
+
+pour ce faire on doit utlise le joker * a l'avant et a l'arrier du term araignee qui est commun a chaque fichier (l'asterisque permet de suprimé tout les fichier qui contien le term araignee)
+
+![mission 8 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission8.png)
+
+mission 9
+l'objectif et le meme que le 8 mais avec des araignee caché
+
+il faut juste rajouté un point devant le premier asterisque "rm .*araignee*"
+
+![mission 9 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission9.png)
