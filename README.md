@@ -30,3 +30,20 @@ objectif créé une hutte et créé un coffre
 on utilise la commande mkdir pour créé un dossier (donc hutte) puis allé dans le dossier et créé un dossier coffre dans le dossier hutte
 
 ![mission 4 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission4.png)
+
+mission 5
+objectif supprimé les araigné de la cave
+
+il suffi d'allé dans la cave et de faire rm(permet de suprimé un fichier ou un dossier) araigné_1 araigné_2 araigné_3
+
+![mission 5 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission5.png)
+
+mission 6
+objectif recuppéré tout les piece dans le jardin et les mettre dans le coffre
+
+utilisé la commande mv(permet de deplacé un fichier/dossier) vers un lieux dit dons ce cas la commande "mv piece_1 piece_2 piece_3 ~/Foret/Hutte/Coffre/"
+
+![mission 6 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission6.png)
+
+mission 7
+
