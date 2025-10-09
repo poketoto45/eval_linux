@@ -110,3 +110,29 @@ il faut utilise la commande nano dans le coffre et ecrire un petit texte dans le
 nano journal.txt
 
 ![mission 15 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission15.png)
+
+mission 16
+obkectif faire un alias de nano ~/Foret/Hutte/Coffre/journal.txt en journal.txt
+
+la commande et donc alias journal='nano ~/Foret/Hutte/Coffre/journal.txt'
+
+![mission 16 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission16.png)
+
+mission 17
+objectif tuer la reine araignee en 20 seconde
+il faut allé dans la cave
+fais un cd .T puis faire tab ensuite fais un rm puis tab 2fois pour voir tout les fichier
+tapé la premier lettre du fichier de la rein araigné et entré
+le tout en moins de 20 seconde
+
+![mission 17 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission17.png)
+
+le 18 est facultatif
+
+Mission 19
+objectif montre 3 feu d'artifice a l'artificier
+pour ce il faut validé la quette en meme temps qu'on la termine avec le signe magique &
+la commande et donc gsh check & flarigo & flarigo & flarigo
+
+![mission 19 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission19.png)
+
