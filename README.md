@@ -168,3 +168,7 @@ trouve les piece d'or avec la commande find
 ![mission 23 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission23.png)
 
 mission 24
+
+trouvé sevillus et copier ca recette de tisan
+
+![mission 23 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission23.png)
