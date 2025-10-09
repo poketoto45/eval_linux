@@ -46,4 +46,9 @@ utilisé la commande mv(permet de deplacé un fichier/dossier) vers un lieux dit
 ![mission 6 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission6.png)
 
 mission 7
+objectif recupéré les piece caché
 
+pour ce on peux utilisé la commande ls -a (le -a veux dire all donc l'integralité des fichier)
+puis a nouveau la commande mv
+
+![mission 7 complet](https://github.com/poketoto45/eval_linux/blob/main/image/mission7.png)
